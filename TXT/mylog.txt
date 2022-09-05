@@ -8,5 +8,6 @@ ZCZC W00 10 L32 Watched a video titled Operating Systems: Crash Course Computer 
 ZCZC W00 5  L32 What is an Operating System as Fast As Possible
 ZCZC W00 60 L10 Assignment #00
 ZCZC W00 60 L06 reading Silberschatz chapter 1
+ZCZC W00 90 L06 reading Silberschatz slides chapter 2 and 18
 ZCZC W00 100 L02 os zoom meetings (tuesday august 30th)  
 ZCZC W00 100 L02 os zoom meetings (thursday september 1st)
