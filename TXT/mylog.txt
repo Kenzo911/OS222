@@ -11,3 +11,17 @@ ZCZC W00 60 L06 reading Silberschatz chapter 1
 ZCZC W00 90 L06 reading Silberschatz slides chapter 2 and 18
 ZCZC W00 100 L02 os zoom meetings (tuesday august 30th)  
 ZCZC W00 100 L02 os zoom meetings (thursday september 1st)
+
+OS222W01
+ZCZC W01 20 L01 SCELE/Discord related
+ZCZC W01 100 L02 os zoom meetings (tuesday september 6th)
+ZCZC W01 90 L02 os zoom meetings (thursday september 10th)
+ZCZC W01 15 L03 Github and git related, including commit, push, pull
+ZCZC w01 60 L05 Quiz related including studying
+ZCZC W01 120 L11 Assignment #01
+ZCZC W01 15 L27 SSH, Key-gen, tunneling, putty, winscp
+ZCZC W01 120 L31 virtualBox: install GNU/Linux, etc.
+ZCZC W01 10 L41 TXT.mylog.txt related
+ZCZC W01 60 L61 Install Virtual Box
+ZCZC W01 30 L62 Install Virtual Debian Guest
+
