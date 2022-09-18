@@ -14,3 +14,9 @@ In this video, the instructor explains Linux in a short time. The instructor exp
 ## Week 01
 1. [EVERYONE Needs to Learn a Little Bit of AWK! youtube video](https://www.youtube.com/watch?v=jJ02kEETw70)<br>
 I think this video is really great for beginners if they're trying to learn awk. The instructor in the video gave so many example of awk commands and he explains really well on every example.
+
+## Week 02
+1. [C - Basic Syntax](https://www.youtube.com/watch?v=3cMs1SXAhgM&t=196s)<br>
+Initially i was searching C tutorial videos on youtube because i thought Week 2 quiz will have questions about C language. So i found this video, and the tutor explained about basic syntax in C language plus the explanation is easy to understand.
+2. [C Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)<br>
+if tutorial videos isn't enough, a website with resource of C tutorial might helps us understand better about C language. In this page, it provides a lot of information about C language like Basic syntax, Data types, Variables, and many more.
