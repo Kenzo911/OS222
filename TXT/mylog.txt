@@ -35,3 +35,5 @@ ZCZC W03 90 L06 Readings assignment
 ZCZC W03 60 L13 create virtual disk (Week 3)
 ZCZC W03 60 L13 finishing task  Week 3 (update rank,log,and update in TXT dir)
 ZCZC W03 15 L05 Quiz 1 and Quiz 2 for week 3 
+ZCZC W03 10 L13 update links
+
