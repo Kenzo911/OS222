@@ -36,4 +36,11 @@ ZCZC W03 60 L13 create virtual disk (Week 3)
 ZCZC W03 60 L13 finishing task  Week 3 (update rank,log,and update in TXT dir)
 ZCZC W03 15 L05 Quiz 1 and Quiz 2 for week 3 
 ZCZC W03 10 L13 update links
-
+ZCZC W04 100 L02 os zoom meetings (tuesday september 27th)
+ZCZC W04 100 L02 os class at campus (thursday september 29nd)
+ZCZC W04 90 L06 Readings assignment
+ZCZC W04 60 L14 read Silberschatz chapter 9
+ZCZC W04 45 L14 finishing task  Week 4 (update rank,log,and update in TXT dir)
+ZCZC W04 60 L05 prepare for week 4 quiz 1
+ZCZC W04 8 L05 Quiz 1 and Quiz 2 for week 4
+ZCZC W04 10 L13 update links

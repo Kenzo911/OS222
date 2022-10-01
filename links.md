@@ -26,3 +26,8 @@ if tutorial videos isn't enough, a website with resource of C tutorial might hel
 It's a really great video that explained about Linux File Systems. I found this video really helpful because the instructor gives so many examples in a simple way (No wonder this video has 3 millions view wow :sunglasses:).
 2. [The mind behind Linux | Linus Torvalds :technologist:](https://www.youtube.com/watch?v=o8NPllzkFhE)<br>
 This video is about the man himself Linus Torvalds the creator of linux kernel. It's a really cool video because sometimes im just amazed that a person could build this really complicated operating system and in this video we could hear the man talks about his history and his view about some cool thigs like nikola tesla and multibilion dollars company.
+## Week 04
+1. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)<br>
+This video talks about pointer show you what a pointer is and also talks about pointer syntax in C. It also explained why is pointer is important.
+2. [Pointers in C Explained – They're Not as Difficult as You Think](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)<br>
+Definitely worth a read if you guys trying to understand pointer. It gaves example that can make the readers understand better about pointers in C.
