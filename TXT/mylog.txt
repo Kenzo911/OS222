@@ -44,3 +44,10 @@ ZCZC W04 45 L14 finishing task  Week 4 (update rank,log,and update in TXT dir)
 ZCZC W04 60 L05 prepare for week 4 quiz 1
 ZCZC W04 8 L05 Quiz 1 and Quiz 2 for week 4
 ZCZC W04 10 L13 update links
+ZCZC W05 100 L02 os zoom meetings (tuesday october 4th)
+ZCZC W05 90 L06 Readings assignment
+ZCZC W05 60 L14 read Silberschatz chapter 10
+ZCZC W05 30 L14 finishing task  Week 5 (update rank,log,and update in TXT dir)
+ZCZC W05 60 L05 prepare for week 5 quiz 1
+ZCZC W05 8 L05 Quiz 1 and Quiz 2 for week 5
+ZCZC W05 10 L13 update links
