@@ -51,3 +51,9 @@ ZCZC W05 30 L14 finishing task  Week 5 (update rank,log,and update in TXT dir)
 ZCZC W05 60 L05 prepare for week 5 quiz 1
 ZCZC W05 8 L05 Quiz 1 and Quiz 2 for week 5
 ZCZC W05 10 L13 update links
+ZCZC W06 90 L06 Readings assignment
+ZCZC W06 60 L16 read Silberschatz chapter 3 and 4
+ZCZC W06 30 L16 finishing task  Week 6 (update rank,log,and update in TXT dir)
+ZCZC W06 60 L05 prepare for week 6 quiz 1
+ZCZC W06 8 L05 Quiz 1 and Quiz 2 for week 6
+ZCZC W06 10 L16 update links

@@ -36,3 +36,7 @@ Definitely worth a read if you guys trying to understand pointer. It gaves examp
 ## Week 05
 1. [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ)<br>
 I was so clueless about virtual memory after reading Silberschatz slides about virtual memory, give this video a go because it has a nice explanation about virtual memory.
+
+## Week 06
+1. [Multitasking vs Multithreading vs Multiprocessing](https://www.youtube.com/watch?v=Tn0u-IIBmtc)<br>
+I found this video intresting because those three words sounds familiar and i kind of twisted the meaning of it after not hearing it for a while. So check this out it might help sharpen your understanding about these 3 things.
