@@ -57,3 +57,9 @@ ZCZC W06 30 L16 finishing task  Week 6 (update rank,log,and update in TXT dir)
 ZCZC W06 60 L05 prepare for week 6 quiz 1
 ZCZC W06 8 L05 Quiz 1 and Quiz 2 for week 6
 ZCZC W06 10 L16 update links
+ZCZC W07 60 L06 Readings assignment
+ZCZC W07 60 L16 read Silberschatz slide for this week
+ZCZC W07 30 L16 finishing task  Week 7 (update rank,log,and update in TXT dir)
+ZCZC W07 45 L05 prepare for week 7 quiz 1
+ZCZC W07 8 L05 Quiz 1 and Quiz 2 for week 7
+ZCZC W07 10 L16 update links

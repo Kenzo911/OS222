@@ -40,3 +40,6 @@ I was so clueless about virtual memory after reading Silberschatz slides about v
 ## Week 06
 1. [Multitasking vs Multithreading vs Multiprocessing](https://www.youtube.com/watch?v=Tn0u-IIBmtc)<br>
 I found this video intresting because those three words sounds familiar and i kind of twisted the meaning of it after not hearing it for a while. So check this out it might help sharpen your understanding about these 3 things.
+## Week 07
+1. [Process Synchronization by neso academy](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+I think this video is instresting. From here i learned that from learning Process Synchronization we can avoid race condition.
